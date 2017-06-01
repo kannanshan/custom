@@ -18,7 +18,7 @@ import com.amazonaws.services.s3.model.GetObjectRequest;
 import com.amazonaws.services.s3.model.PutObjectRequest;
 import com.amazonaws.services.s3.model.S3Object;
 
-public class EfsTest {
+public class EfsvsS3Test {
 	
 	//static String sourceDirectory = "";
 	//static String destDirectory = "/efs/test/";
